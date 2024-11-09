@@ -1,4 +1,4 @@
-# Contact CRUD Application
+# Contact Vault
 
 This is a simple Flask-based Contact CRUD (Create, Read, Update, Delete) application for managing contact information. The application is built using Flask and SQLite, and it demonstrates how to use Docker for containerization and Jenkins for Continuous Integration/Continuous Deployment (CI/CD).
 
